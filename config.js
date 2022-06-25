@@ -13,15 +13,15 @@ global.prems = ['6288270863279']
 //=============『 Info Owner 』============== //
 global.nameowner = 'Danzz Ofc'
 global.numberowner = '6288270863279'
-global.instagram = 'https://instagram.com/sahrulwara_____'
+global.instagram = 'Private Kids'
 global.github = 'https://github.com/DanzGamtevk75'
 global.dana = '088270863279'
 global.pulsa = '088270863279'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
-global.gc = ''
+global.namebot = 'DanzBot-MD'
+global.gc = 'https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK'
 global.web = 'https://nekopoi.care' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'G Punya Saweria'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 5.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 10.000\nMAKSIMAL 1 GRUP \n》 Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'

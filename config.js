@@ -6,21 +6,21 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6288270863279'] 
-global.mods = ['6288270863279'] 
-global.prems = ['6288270863279'] 
+global.owner = ['6283898839679'] 
+global.mods = ['6283898839679'] 
+global.prems = ['6283898839679'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Danzz Ofc'
-global.numberowner = '6288270863279'
+global.nameowner = 'Hann Ofc'
+global.numberowner = '6283898839679'
 global.instagram = 'Private Kids'
 global.github = 'https://github.com/DanzGamtevk75'
-global.dana = '088270863279'
-global.pulsa = '088270863279'
+global.dana = '6283898839679'
+global.pulsa = '6283898839679'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'DanzBot-MD'
+global.namebot = 'HannnBot-MD'
 global.gc = 'https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK'
 global.web = 'https://nekopoi.care' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'G Punya Saweria'
@@ -31,15 +31,15 @@ global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'DanzBot-MD'
+global.wm = 'HannzBot-MD'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 DanzzOfc ×፝֟͜×'
-global.wm3 = 'ᯤ DanzzOfc'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Hann0fc ×፝֟͜×'
+global.wm3 = 'ᯤ HannOfc'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '⏳Tunggu Sedang Proses...'
+global.wait = '⏳Pap TT dulu sambil nunggu🗿...'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
